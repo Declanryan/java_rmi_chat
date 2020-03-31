@@ -9,6 +9,7 @@ import javafx.application.Application;
 public class Main {
     public static void main(String[] args) {
     	// startRMIRegistry(); this is used to start the registry autimatically when not using shells
+	// the registry starts autimatically when this is enabled and dispenses with the need for a second shell.
     	
     	// start the server
 		try {// associate the server object on the registry
