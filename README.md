@@ -1,5 +1,5 @@
 # java_rmi_chat
-AN EXAMPLE OF A CHAT APPLICATION USING JAVA REMOTE METHOD INVOCATION
+An example of a chat application using javas remote remote method invocation
 
 how to run the application:-
 option:
